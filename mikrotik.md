@@ -1,9 +1,9 @@
 **MÉRÉSI JEGYZŐKÖNYV**  
-**Távkozlési Technikus Vizsgafeladat**  
+**Távközlési Technikus Vizsgafeladat**  
 
 **Vizsgázó neve:** Kónya Zsombor
 **Dátum:** 2025.01.29.
-**Helyszín:** Labor 
+**Helyszín:** V3 Labor 
 **Vizsgabizottság tagjai:** Sándor Péter  
 
 ---
