@@ -1,9 +1,9 @@
 
 **VIZSGA JEGYZŐKÖNYV**
 
-**Vizsgázó neve:** Szabolcsik Mátyás, Kónya Zsombor
-**Dátum:** 2025.02.03.
-**Helyszín:** Miskolc V3
+-**Vizsgázó neve:** Szabolcsik Mátyás, Kónya Zsombor
+-**Dátum:** 2025.02.03.
+-**Helyszín:** Miskolc V3
 
 ---
 ### **1. A feladat**
