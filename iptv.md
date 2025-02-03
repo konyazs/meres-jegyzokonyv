@@ -51,7 +51,8 @@
 - **Hőmrséklet:** 5°C
 - **Szélerősség:** 3,2m/s
 - **Légnyomás** 1027mBar
-- **Router konfig:** -Router Default IP 192.168.1.1
+- **Router konfig:**
+-                    -Router Default IP 192.168.1.1
 -                    -IP Deafult Gateway 192.168.1.1
 -                    -DHCP konfig 192.168.1.100- 192.168.1.249
 -                    -IGMP Snooping Protocol [ON]
