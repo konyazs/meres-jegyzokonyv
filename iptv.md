@@ -45,8 +45,9 @@
 - **IPTV stream állapota:** [x] Megfelelő [ ] Nem megfelelő  
 - **Hálózati késleltetés:** [] ms  
 - **Csomagvesztés:** [] %
-- **Multicast IP** 224.0.0.1
-- **Multicast port tartomány**1001-1040
+- **IPTV Stream elemzése:**
+- **Multicast IP** 224.224.224.224
+- **Multicast port tartomány**10001-10040
 - **Páratartalom:** 68%
 - **Hőmrséklet:** 5°C
 - **Szélerősség:** 3,2m/s
@@ -63,10 +64,8 @@
 - 
 ---
 
-### **3. Összegzés és értékelés**
-- **Összpontszám:** [Pontszám] / 100  
-- **Megjegyzések:** [Megjegyzések]  
-- **A vizsga eredménye:** [ ] Sikeres [ ] Sikertelen  
+### **Összegzés és értékelés**
+  - én meg matyi, matyi meg én felváltva csináltuk, úgy hogy közben a másik végig segített Végére viszont eldobtuk a kanalat
 
 **Vizsgáztató neve:** [Név]  
 **Dátum:** [Dátum]  
