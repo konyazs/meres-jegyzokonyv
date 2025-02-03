@@ -57,7 +57,10 @@
 -                    -DHCP konfig 192.168.1.100- 192.168.1.249
 -                    -IGMP Snooping Protocol [ON]
 -                    -Lan1--> Lan3 IPTV Bridge
-- **Mag IPTV Konfig:**-
+- **Mag IPTV Konfig:**
+- -Ethernet Auto DHCP Link Status[UpLink]
+- -USB-ről átmásoltuk a csatorna listát
+- 
 ---
 
 ### **3. Összegzés és értékelés**
