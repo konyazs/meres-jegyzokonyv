@@ -39,7 +39,7 @@
 - **Input 2:** multiplex b
 - **Input 3:** multiplex e
 - **Input 4:** Miskolc Városi TV
-- **Jelerősség:** 52 dBµV  (Horizontális Dél-Nyugat 234fok Miskolci TV )
+- **Jelerősség:** 52 dBµV  (Horizontális Dél-Nyugat 240fok Miskolci TV )
 - **Moduláció:** Dvb-t/Qpsk/8K/ 1/32   
 - **Modulation Error Ratio (MER):** [25] dB   
 - **IPTV stream állapota:** [x] Megfelelő [ ] Nem megfelelő  
@@ -64,8 +64,10 @@
 - 
 ---
 
+**Tesztelés:**
+
 ### **Összegzés és értékelés**
-  - én meg matyi, matyi meg én felváltva csináltuk, úgy hogy közben a másik végig segített Végére viszont eldobtuk a kanalat
+  -
 
 **Vizsgáztató neve:** [Név]  
 **Dátum:** [Dátum]  
