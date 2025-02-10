@@ -57,16 +57,47 @@
 ---
 ##  Mért eredmények  
 
-- **Jelszint**:   
-- **Sávszélesség**:   
-- **Modulációs mélység**:   
-- **Spektrumképek**: 
+1. **100% Moduláció**
+
+- **Jelszint**: [-31.9 dBm]
+- **Sávszélesség**: [5 MHz]  
+- **Modulációs mélység**: [100%]   
+
+2. **63% Moduláció**
+
+- **Jelszint**: [-32.1 dBm]
+- **Sávszélesség**: [5 MHz]
+- **Modulációs mélység**: [63%] 
 
 ---
 
 ## Mért Képek
 
+**100% Spektrumanalizátor**
 
+![SCR00]()
+
+---
+
+
+**100% Scope**
+
+![TA01]()
+
+---
+
+**63% Spektrumanalizátor**
+
+![SCR01]()
+
+---
+
+
+**63% Scope**
+
+![TA03]()
+
+---
 
 
 
