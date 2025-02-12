@@ -13,14 +13,20 @@
 - **Johansson 8202**
 - **Metek HDD**
 
-### 2. A mérés menete 
+### 2. Kábel elkészítése
+
+- **Megfelelő vezeték kiválasztása**
+- **Blankolás**
+- **f-csatlakozó ráhelyezése**
+
+### 3. A mérés menete 
 
 - **1.lépés a kábel összeszerelése**<br>
 - **2.lépés beállítjuk a johansson modulátoron a jelerősséget (90dBu) és frekvenciát (177.5 MHz és 858 MHz)**<br>
 - **3.lépés összekötjük a Metek HDD spektrum analizátort a modulátorral** <br>
 - **4.lépés leolvassuk a jelszintet a spekrum analizátorról és a beállított jelszintből kivonjuk a leolvasottatt**<br>
 
-### 3. Mért adatok
+### 4. Mért adatok
 
 | Frekvencia      | 177.5 MHz      | 858 MHz      | 
 |-----------------|----------------|--------------|
