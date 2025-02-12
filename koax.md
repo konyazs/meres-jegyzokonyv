@@ -30,7 +30,7 @@
 <details>
    <summary>Kép az elkészült csatlakozóról</summary>
 
-   <img src="" height="300">
+   <img src="https://github.com/konyazs/meres-jegyzokonyv/blob/main/IMG_3194.jpg" height="300">
 
 </details>
 
@@ -38,14 +38,14 @@
 <details>
    <summary>177.5 MHz-en mért jelszint</summary>
 
-   <img src="" Width="600">
+   <img src="https://github.com/konyazs/meres-jegyzokonyv/blob/main/its_snapshot_0001.png" Width="600">
 
 </details>
 
 <details>
    <summary>858 MHz-en mért jelszint</summary>
 
-   <img src="" Width="600">
+   <img src="https://github.com/konyazs/meres-jegyzokonyv/blob/main/its_snapshot_0002.png" Width="600">
 
 </details>
 
